@@ -1,0 +1,20 @@
+[2026-01-30T21:06:38.124Z] Auth Header Present: {"present":false}
+[2026-01-30T21:06:38.135Z] Payload: {"userId":"00000000-0000-0000-0000-000000000000","category":"Others","location":"Debug Script"}
+[2026-01-30T21:06:45.423Z] DB Insert Error {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"complaints\""}
+[2026-01-30T21:06:45.425Z] Catch Block Error {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"complaints\""}
+[2026-01-30T21:09:32.679Z] Auth Header Present: {"present":false}
+[2026-01-30T21:09:32.689Z] Payload: {"userId":"cf91b354-e1d8-47dd-8e26-dd5c82e73a63","category":"Electricity","location":"Room 302"}
+[2026-01-30T21:09:33.078Z] DB Insert Error {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"complaints\""}
+[2026-01-30T21:09:33.080Z] Catch Block Error {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"complaints\""}
+[2026-01-30T21:10:15.476Z] Auth Header Present: {"present":false}
+[2026-01-30T21:10:15.482Z] Payload: {"userId":"cf91b354-e1d8-47dd-8e26-dd5c82e73a63","category":"Electricity","location":"Room 302"}
+[2026-01-30T21:10:15.870Z] DB Insert Error {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"complaints\""}
+[2026-01-30T21:10:15.871Z] Catch Block Error {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"complaints\""}
+[2026-01-30T21:15:56.073Z] Auth Header Present: {"present":true,"length":1014}
+[2026-01-30T21:15:56.077Z] Payload: {"userId":"cf91b354-e1d8-47dd-8e26-dd5c82e73a63","category":"Electricity","location":"room-33"}
+[2026-01-31T00:56:26.610Z] Auth Header Present: {"present":true,"length":1014}
+[2026-01-31T00:56:26.624Z] Payload: {"userId":"cf91b354-e1d8-47dd-8e26-dd5c82e73a63","category":"Water","location":"room-32"}
+[2026-01-31T04:12:01.687Z] Auth Header Present: {"present":true,"length":1014}
+[2026-01-31T04:12:01.698Z] Payload: {"userId":"cf91b354-e1d8-47dd-8e26-dd5c82e73a63","category":"Electricity","location":"125"}
+[2026-01-31T04:40:52.623Z] Auth Header Present: {"present":true,"length":1014}
+[2026-01-31T04:40:52.629Z] Payload: {"userId":"cf91b354-e1d8-47dd-8e26-dd5c82e73a63","category":"Electrical Maintenance","location":"202"}

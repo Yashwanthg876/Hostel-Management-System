@@ -1,0 +1,7058 @@
+[
+    {
+        "text": "water tap clogged in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke shattered in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke shattered in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking happening in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit exploded in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed gas leak",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken detected in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed broken glass",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken started in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking detected in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass detected in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit exploded in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak is dangerous in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass started",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit coming out near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking stuck with people in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion collapsed in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed ceiling collapse",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion coming out in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking not locking in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency fire",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency main door broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken started in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken shattered on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken exploded in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire is dangerous in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken started",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken collapsed in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "danger sparking",
+        "label": "HIGH"
+    },
+    {
+        "text": "danger broken glass",
+        "label": "HIGH"
+    },
+    {
+        "text": "help immediately fire",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken started in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion is dangerous near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit is dangerous in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken started",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass shattered near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak is dangerous in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "help immediately ceiling collapse",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak happening in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed smoke",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak happening in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass detected in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak not locking in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "light flickering in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light no water in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light clogged near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken is dangerous in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency broken glass",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap jammed on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light not working in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac not working in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak stuck with people in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner not working in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap leaking in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass shattered in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak exploded in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak detected in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light broken on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower very slow near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak started near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion exploded in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire detected in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler making noise in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet dripping on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard no water in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table dripping in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass detected in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain needs cleaning in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "shower making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall dusty in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "gas leak detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod is old",
+        "label": "LOW"
+    },
+    {
+        "text": "broken glass happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "critical situation ceiling collapse",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner dripping in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit exploded on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner flickering in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking stuck with people near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass shattered in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain slightly broken in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "help immediately short circuit",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit exploded in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod missing in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "paint is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "internet wobbly in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger elevator stuck",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain stained",
+        "label": "LOW"
+    },
+    {
+        "text": "fire not locking near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint stained in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "fan is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass exploded on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "dustbin is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "cupboard is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking not locking on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "light jammed in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion happening in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed elevator stuck",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire happening in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light broken in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush very slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin dirty in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "table disconnected in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion coming out in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair very slow in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "shower flickering near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking happening on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke started on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard leaking in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit detected on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass coming out in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap flickering near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port making noise on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck coming out in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "table disconnected in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain peeling off in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod stained in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "ac not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain is old",
+        "label": "LOW"
+    },
+    {
+        "text": "short circuit exploded in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress dripping in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke stuck with people near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit happening in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass started in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light making noise in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "urgent help needed short circuit",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit started in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion started on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board old on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "lock broken shattered in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail is old",
+        "label": "LOW"
+    },
+    {
+        "text": "mattress no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "gas leak is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap flickering in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "help immediately smoke",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke coming out in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency gas leak",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "internet jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall dusty in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "floor tile is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "smoke stuck with people in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "notice board is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "light slow in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire stuck with people in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak started in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink broken on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking exploded on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod dirty in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "internet broken in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net missing in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "wall dusty in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner making noise in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light disconnected in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table very slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking coming out in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net old in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror dusty in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "window net loose on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit stuck with people in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke detected in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap not working in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net slightly broken in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "cupboard is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat dirty in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "wall torn on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "sink is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress not working in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile slightly broken in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain rod needs cleaning in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "table is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck stuck with people in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke stuck with people in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror dusty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "wall is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "window net slightly broken on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain rod is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "ac broken in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken started in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "table wobbly in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken stuck with people in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain dirty in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "light wobbly on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak detected in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke exploded in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "dustbin is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "paint missing in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower dripping in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board torn in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "cupboard wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke coming out in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "chair clogged in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port leaking in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall is old",
+        "label": "LOW"
+    },
+    {
+        "text": "bed is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion detected in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard no water in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck started near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke started",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak shattered in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard slow in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair disconnected in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit started in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower broken in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile dusty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity started",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke coming out in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "light flickering in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light broken in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "smoke happening on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile torn",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak started",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light disconnected in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net old in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "internet is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net missing in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "sink broken near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke is dangerous in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac wobbly in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall needs cleaning in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "water tap flickering in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile torn in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "light flickering in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan flickering in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan making noise near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "help immediately sparking",
+        "label": "HIGH"
+    },
+    {
+        "text": "light wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board missing in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port wobbly in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger smoke",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger gas leak",
+        "label": "HIGH"
+    },
+    {
+        "text": "critical situation gas leak",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan very slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe detected in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken exploded in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "table jammed on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard jammed in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken started in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light jammed in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken is dangerous in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion is dangerous on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse exploded in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet disconnected in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net slightly broken in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "window net is old",
+        "label": "LOW"
+    },
+    {
+        "text": "ceiling collapse stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire started",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed sparking",
+        "label": "HIGH"
+    },
+    {
+        "text": "light broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass stuck with people in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "table flickering in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner clogged near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit stuck with people near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion not locking in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler wobbly near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken detected in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress leaking in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap clogged in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck exploded in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light leaking in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe collapsed in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower leaking in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell stuck with people in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain dusty in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "floor tile dirty in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "ac very slow in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak not locking in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "table clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe not locking in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower broken in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "broken glass stuck with people in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard clogged in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "notice board slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell shattered in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding happening near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler making noise in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress no water on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass coming out in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion stuck with people in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "paint slightly broken in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "emergency explosion",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "table wobbly in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler flickering on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi clogged in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port flickering in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken happening in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain peeling off in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "window net dusty in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken coming out in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink disconnected in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell detected in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell collapsed near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet disconnected in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe stuck with people on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse shattered in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan broken in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire not locking in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress jammed on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet not working in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "light no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe shattered in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand old in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "internet is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink flickering on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken collapsed in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell not locking in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "table leaking in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation explosion",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe not locking near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port no water near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror peeling off in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "shower is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush wobbly near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet disconnected in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat is old",
+        "label": "LOW"
+    },
+    {
+        "text": "ceiling collapse detected in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "light disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire exploded in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken not locking in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed clogged in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed wobbly in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation main door broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner disconnected near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat torn in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "ac not working in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire started in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod peeling off in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler clogged in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall stained in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin needs cleaning in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire shattered on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire coming out in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "light disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac disconnected in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light wobbly in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger flooding",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire stuck with people in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse not locking in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass shattered on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand loose in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "shower wobbly near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand dirty in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler leaking near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed slow in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner leaking in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken not locking in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain old in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell exploded near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding detected near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat old on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "window net is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "flooding collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell happening in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity happening on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass not locking in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light making noise in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell happening in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "bed slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire stuck with people in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed clogged in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain needs cleaning in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "flooding shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding started in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire not locking in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "ceiling collapse exploded in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet leaking in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe exploded in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "table is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe not locking in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat dusty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "wall torn in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap making noise in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse is dangerous in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port not working in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod stained near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "emergency ceiling collapse",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding stuck with people in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "paint peeling off in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "bed is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table not working near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac flickering in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light jammed in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity exploded on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire started on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror loose in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass collapsed in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand peeling off in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress dripping in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "internet jammed in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken detected in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board dirty in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "table is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port broken in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac flickering in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner dripping near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard wobbly in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger exposed wire",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table very slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken exploded near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush very slow near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall slightly broken in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "doormat peeling off in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand dirty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "mirror dusty in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "flush clogged in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light wobbly in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire started in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe stuck with people in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap leaking in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink jammed in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand missing",
+        "label": "LOW"
+    },
+    {
+        "text": "explosion stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "light flickering in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light leaking in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse collapsed in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "ceiling collapse collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat stained on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "table is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush wobbly in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "broken glass not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand dusty near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "chair flickering in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion shattered in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain dirty in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "paint is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand is old",
+        "label": "LOW"
+    },
+    {
+        "text": "bed jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat needs cleaning in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck stuck with people in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "help immediately lock broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe is dangerous in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit shattered in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe shattered in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand slightly broken in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "floor tile dusty in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "light jammed near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding not locking on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding coming out in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler leaking in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse happening in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency burning smell",
+        "label": "HIGH"
+    },
+    {
+        "text": "critical situation burst pipe",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse exploded near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "light jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation no electricity",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "ac wobbly in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair slow in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation lock broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken started in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net needs cleaning in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "ac slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire started in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan broken in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand dusty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac flickering in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "cupboard no water in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port no water in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken stuck with people in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "lock broken started in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan dripping in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak is dangerous near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard flickering in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port dripping on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck started",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink slow near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke is dangerous on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner wobbly in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger ceiling collapse",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain slightly broken on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port making noise in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit is dangerous in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush disconnected in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "explosion stuck with people in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "table jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass started near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port broken in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "help immediately broken glass",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan disconnected in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand needs cleaning in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "internet making noise in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress disconnected in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan making noise in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light wobbly in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet broken on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke detected in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding shattered in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod peeling off in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell happening in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi broken in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet clogged near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand slightly broken in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "mattress not working in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan dripping in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck started",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed broken in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner slow in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table wobbly in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand torn in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire started in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "paint is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "help immediately flooding",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat old in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "mirror peeling off in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "flooding started near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush no water in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak coming out on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "help immediately no electricity",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light flickering in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror dusty in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "chair flickering in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken coming out on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard leaking near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion is dangerous in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush not working in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed dripping in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "urgent help needed main door broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke exploded in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall slightly broken on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "flooding is dangerous in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation short circuit",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair very slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking started",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net torn near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "broken glass collapsed near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "table is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency burst pipe",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink making noise in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken not locking in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand peeling off in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin old in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "sparking detected in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net dusty in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "short circuit shattered in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower disconnected in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding happening in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board peeling off in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "doormat old near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "fan broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass collapsed in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe started",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell collapsed in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan no water in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac clogged near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit shattered near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck stuck with people in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed lock broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand dusty in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "flush is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "mirror needs cleaning on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "flooding is dangerous in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress broken in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand slightly broken in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "sink leaking in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire not locking in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe started on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck happening in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken not locking in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner clogged in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod dirty near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port clogged in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire stuck with people in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "internet disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress dripping in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion collapsed in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe happening near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush not working near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell is dangerous near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck collapsed in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port dripping in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger burst pipe",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse happening in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain stained in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "lock broken collapsed in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe started in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler very slow in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink wobbly in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port no water in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin stained in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi clogged in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror old in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "shower slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner dripping in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush making noise near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck detected on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "table is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin stained",
+        "label": "LOW"
+    },
+    {
+        "text": "towel rail stained in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler disconnected in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table flickering in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion collapsed in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "dustbin old near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "gas leak shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table clogged in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port leaking near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler wobbly in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke coming out near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire shattered in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire shattered in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding happening in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "burst pipe shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire exploded in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass happening in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "danger fire",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency sparking",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire is dangerous in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler not working on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light making noise near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi very slow near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire detected in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light very slow near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress making noise near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror loose near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "water tap wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board is old",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner disconnected in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail peeling off in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "sparking started near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass not locking in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "fan jammed in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain rod torn in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "ac making noise in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "help immediately burst pipe",
+        "label": "HIGH"
+    },
+    {
+        "text": "table slow in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower leaking in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire is dangerous near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "critical situation sparking",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke not locking in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "paint is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit detected in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair leaking in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail peeling off near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "ceiling collapse happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board dusty in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "internet clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat stained in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "flush disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken coming out in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi dripping on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan clogged in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile stained in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "table making noise in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe is dangerous in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "urgent help needed burst pipe",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi wobbly near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress leaking in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking shattered in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan very slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light wobbly near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "bed no water in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "light very slow in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass not locking on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror missing",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe detected in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall old in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "broken glass is dangerous in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken is dangerous on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion exploded in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell started in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "fire exploded in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "help immediately main door broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire happening in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "internet disconnected in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding stuck with people on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken started",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink flickering in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair making noise in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail dirty in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port making noise in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush wobbly in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan very slow near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit started in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port wobbly in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi flickering in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light not working in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity is dangerous in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner no water in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "critical situation broken glass",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass happening on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair jammed in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi wobbly in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "help immediately burning smell",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation flooding",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit started",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile missing in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "light very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet no water in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint dusty near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "internet is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck shattered in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush leaking in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat old",
+        "label": "LOW"
+    },
+    {
+        "text": "fan is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile needs cleaning in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "water tap slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap dripping in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain stained in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "main door broken shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner making noise near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light flickering in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "urgent help needed no electricity",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire coming out in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler broken near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking stuck with people in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck started in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror missing in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "notice board peeling off in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "shower not working in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet disconnected on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "burst pipe started in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "help immediately gas leak",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi making noise in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard dripping in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak exploded in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "explosion not locking in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port disconnected in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding started in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire stuck with people on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell is dangerous in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken stuck with people on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken started in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "explosion detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower very slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass started",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell not locking in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile loose in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "fire coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail needs cleaning in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger no electricity",
+        "label": "HIGH"
+    },
+    {
+        "text": "lizard in room",
+        "label": "LOW"
+    },
+    {
+        "text": "cupboard broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass started in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap no water in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion started",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak stuck with people on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency flooding",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity not locking near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light flickering on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac broken in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken shattered in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck started in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "help immediately explosion",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap disconnected in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink not working in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand torn in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "table leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port jammed in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi not working in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire stuck with people in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "cooler is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush disconnected near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "short circuit collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror is old",
+        "label": "LOW"
+    },
+    {
+        "text": "gas leak detected in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe shattered in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck not locking near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency short circuit",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "sparking collapsed in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush making noise in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fan very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "help immediately elevator stuck",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity coming out in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "critical situation fire",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush clogged in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin dusty in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler wobbly on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken happening in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "broken glass happening in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile old on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "burst pipe happening in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard flickering in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi no water in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding started in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink not working near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "floor tile missing in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "sparking started in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke happening near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink flickering in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "short circuit coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod stained on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "urgent help needed fire",
+        "label": "HIGH"
+    },
+    {
+        "text": "lock broken not locking in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe exploded in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard very slow in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress no water in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke exploded in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken exploded in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "light is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken coming out in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner very slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board stained in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "urgent help needed flooding",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire not locking in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding is dangerous in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush disconnected in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint stained in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "wall old on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "table leaking in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink clogged near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed flickering near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board old near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "bed dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water is flooded in our room",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass coming out in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "bed is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck is dangerous in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed making noise in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler dripping in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "mattress is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "broken glass coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat dirty in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "water tap is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity started in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell happening on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire detected in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress broken in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress clogged in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "window net is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "ac broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe not locking in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "urgent help needed exposed wire",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink very slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire shattered in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "internet is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "gas leak collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "bed no water in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "internet broken in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "broken glass exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "main door broken is dangerous in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall slightly broken in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "gas leak stuck with people near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke shattered in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "mattress very slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink dripping in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity started in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion coming out on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire coming out on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "lan port broken on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "floor tile stained",
+        "label": "LOW"
+    },
+    {
+        "text": "cupboard wobbly on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac no water in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken detected in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail loose in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "fire collapsed in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion collapsed in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "room full of water",
+        "label": "HIGH"
+    },
+    {
+        "text": "gas leak stuck with people in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table very slow near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac jammed in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair not working in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac wobbly in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net torn in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "table leaking in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bathroom flooded",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "main door broken detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "dustbin is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin is old",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand missing in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "no electricity is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke collapsed in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat missing in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "mattress dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin stained in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand old in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "chair leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod old in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "table disconnected near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe is dangerous in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "floor tile is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "sink broken in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table broken in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe collapsed near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger short circuit",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain peeling off in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "urgent help needed burning smell",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap not working in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse coming out on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard broken in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint loose in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "paint loose in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi is wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity stuck with people in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe coming out in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire detected near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse happening in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "light is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "lan port is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi slow in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken stuck with people in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain rod dusty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "smoke not locking in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile stained in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "wifi is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "danger main door broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck coming out in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail stained in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "bed leaking in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mirror is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "lock broken shattered in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "internet is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "wall stained in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "ceiling collapse started in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard broken in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wifi wobbly in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall loose in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck collapsed in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap clogged in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard very slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken shattered",
+        "label": "HIGH"
+    },
+    {
+        "text": "danger explosion",
+        "label": "HIGH"
+    },
+    {
+        "text": "emergency no electricity",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck detected in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "light is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush very slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "emergency elevator stuck",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "burst pipe shattered in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror needs cleaning near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "doormat is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "tube light no water on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "bed is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat torn in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "flush is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ceiling collapse stuck with people near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse started",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink wobbly on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler broken on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail peeling off on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "sparking exploded in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "tube light is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap jammed near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding exploded in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding started in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard no water on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity exploded in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck not locking on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "curtain is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "mattress wobbly in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "emergency lock broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat loose in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "notice board is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain rod slightly broken in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "table is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "table is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile is old",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire happening on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair is no water",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "soap stand is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "mirror loose in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "water tap is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "light not working near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking is dangerous in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush disconnected in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "mattress jammed in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sparking is dangerous on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "doormat is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "elevator stuck happening in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck coming out in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity detected in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair not working in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac very slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail torn in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell collapsed on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking coming out in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse is dangerous on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "no electricity exploded in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower disconnected in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail dirty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "mattress not working in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "no electricity coming out on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire happening in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner very slow in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "fire detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse is dangerous near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "paint is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "cooler dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ants on the table",
+        "label": "LOW"
+    },
+    {
+        "text": "flooding exploded in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "light leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck happening in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "elevator stuck started in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe not locking on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "internet dripping in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod missing on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "sink is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion shattered in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink leaking on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall needs cleaning in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain rod is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "light leaking in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile loose in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "help immediately exposed wire",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse stuck with people in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "danger lock broken",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "emergency smoke",
+        "label": "HIGH"
+    },
+    {
+        "text": "ceiling collapse started",
+        "label": "HIGH"
+    },
+    {
+        "text": "critical situation exposed wire",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding coming out on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "flooding is dangerous in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "flush clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail dusty in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "no electricity detected in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "fan slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck shattered near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "fire collapsed in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink not working on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding stuck with people in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "cupboard slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cupboard clogged in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler not working in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke collapsed in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "burst pipe detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "wifi jammed in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac wobbly in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac leaking in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall missing in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "sink disconnected on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding not locking",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "sparking detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "floor tile stained in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "fire collapsed in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "smoke coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "no electricity shattered in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac not working in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation elevator stuck",
+        "label": "HIGH"
+    },
+    {
+        "text": "floor tile slightly broken in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "internet not working in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken shattered in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "sparking exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire coming out in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "elevator stuck is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board torn in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "towel rail needs cleaning in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "fire happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding stuck with people",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink no water in my room",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "smoke coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "sink no water near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burst pipe is dangerous",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner clogged in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding started",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding started in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire coming out in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac is disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail is stained",
+        "label": "LOW"
+    },
+    {
+        "text": "sink making noise in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "water tap not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "dustbin loose",
+        "label": "LOW"
+    },
+    {
+        "text": "internet is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "air conditioner disconnected in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "towel rail dirty near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "shower jammed in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap jammed in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation smoke",
+        "label": "HIGH"
+    },
+    {
+        "text": "window net torn in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "sparking shattered near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower not working in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "wall dusty on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "floor tile is dirty",
+        "label": "LOW"
+    },
+    {
+        "text": "doormat peeling off in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell is dangerous in the pantry",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "explosion collapsed",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board stained in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "water tap is very slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "critical situation burning smell",
+        "label": "HIGH"
+    },
+    {
+        "text": "notice board dusty near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "no electricity happening",
+        "label": "HIGH"
+    },
+    {
+        "text": "chair is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lock broken not locking on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flooding detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "explosion not locking near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap wobbly in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire detected",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap dripping near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire started",
+        "label": "HIGH"
+    },
+    {
+        "text": "danger burning smell",
+        "label": "HIGH"
+    },
+    {
+        "text": "wall loose on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "no electricity shattered in the corridor",
+        "label": "HIGH"
+    },
+    {
+        "text": "water tap very slow in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair broken in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "shower jammed in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "exposed wire is dangerous near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "shower is not working",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap jammed",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "water tap flickering in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board torn near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "shower very slow in the common area",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "cooler not working near the entrance",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board needs cleaning in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "shower very slow on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "air conditioner wobbly",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is clogged",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "chair is flickering",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac broken in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell started",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding happening in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "mirror is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "emergency exposed wire",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac dripping in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod slightly broken in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire coming out near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "dustbin is peeling off",
+        "label": "LOW"
+    },
+    {
+        "text": "notice board needs cleaning near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "urgent help needed explosion",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac is slow",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "flush disconnected",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac leaking in the pantry",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac is making noise",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "sink no water in block A",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "lan port is dripping",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac disconnected in the corridor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "window net needs cleaning in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "mirror missing on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire started",
+        "label": "HIGH"
+    },
+    {
+        "text": "ac no water in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "ac clogged on the 2nd floor",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "notice board dirty in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell detected on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner leaking",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "doormat dirty in the bathroom",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell exploded on the 2nd floor",
+        "label": "HIGH"
+    },
+    {
+        "text": "air conditioner is broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "tube light jammed in the bathroom",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "burning smell exploded",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell not locking near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin missing in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell is dangerous in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "exposed wire exploded in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding happening in the bathroom",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail is dusty",
+        "label": "LOW"
+    },
+    {
+        "text": "paint slightly broken in my room",
+        "label": "LOW"
+    },
+    {
+        "text": "curtain rod loose in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "paint needs cleaning in the common area",
+        "label": "LOW"
+    },
+    {
+        "text": "paint is old",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell coming out",
+        "label": "HIGH"
+    },
+    {
+        "text": "dustbin is torn",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire collapsed in the common area",
+        "label": "HIGH"
+    },
+    {
+        "text": "burning smell started",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "burning smell coming out in block A",
+        "label": "HIGH"
+    },
+    {
+        "text": "towel rail is loose",
+        "label": "LOW"
+    },
+    {
+        "text": "exposed wire shattered in my room",
+        "label": "HIGH"
+    },
+    {
+        "text": "flooding collapsed near the entrance",
+        "label": "HIGH"
+    },
+    {
+        "text": "soap stand is missing",
+        "label": "LOW"
+    },
+    {
+        "text": "paint dirty in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin dusty near the entrance",
+        "label": "LOW"
+    },
+    {
+        "text": "wall slightly broken in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "paint dusty in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "doormat dusty in the corridor",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand is slightly broken",
+        "label": "LOW"
+    },
+    {
+        "text": "soap stand torn in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "towel rail slightly broken on the 2nd floor",
+        "label": "LOW"
+    },
+    {
+        "text": "dustbin dusty in block A",
+        "label": "LOW"
+    },
+    {
+        "text": "paint is needs cleaning",
+        "label": "LOW"
+    },
+    {
+        "text": "paint slightly broken in the pantry",
+        "label": "LOW"
+    },
+    {
+        "text": "chair broken",
+        "label": "MEDIUM"
+    },
+    {
+        "text": "curtain rod old in the bathroom",
+        "label": "LOW"
+    }
+]

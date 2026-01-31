@@ -1,0 +1,32 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Complaint {
+  id            String   @id @default(uuid())
+  title         String
+  description   String
+  category      String   // Water, Electricity, etc.
+  severity      String   // Low, Medium, High, Critical
+  location      String
+  status        String   @default("OPEN") // OPEN, IN_PROGRESS, RESOLVED, ESCALATED
+  priorityScore Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  slaDeadline   DateTime?
+  logs          EventLog[]
+}
+
+model EventLog {
+  id          String   @id @default(uuid())
+  type        String   // ComplaintRaised, StatusUpdated, etc.
+  payload     String   // JSON string
+  timestamp   DateTime @default(now())
+  complaintId String?
+  complaint   Complaint? @relation(fields: [complaintId], references: [id])
+}
